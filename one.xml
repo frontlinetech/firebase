@@ -5,11 +5,10 @@
 		<name>url2</name>
 		<protocol>http</protocol>		
 		<ip>193.161.193.99</ip>
-		<port>48871</port>
-		<loc>22c22</loc>
+		<port>48871</port>		
 		<status>active</status>
-		<createdate>20221124</createdate>
-		<modifieddate>20221124</modifieddate>		
+		<createdate>22c22</createdate>
+		<modifieddate>22c22</modifieddate>		
 	</connection>	
 	<connected>
 		<id>2</id>
@@ -17,10 +16,9 @@
 		<protocol>http</protocol>		
 		<ip>147.185.221.180</ip>
 		<port>18573</port>
-		<loc>22c22</loc>
 		<status>active</status>
-		<createdate>20221124</createdate>
-		<modifieddate>20221124</modifieddate>		
+		<createdate>22c22</createdate>
+		<modifieddate>22c22</modifieddate>		
 	</connected>	
 	<disconnected>
 		<id>4</id>
@@ -28,9 +26,8 @@
 		<protocol>http</protocol>		
 		<ip>147.185.221.180</ip>
 		<port>18573</port>
-		<loc>22c22</loc>
 		<status>active</status>
-		<createdate>20221124</createdate>
-		<modifieddate>20221124</modifieddate>		
+		<createdate>22c22</createdate>
+		<modifieddate>22c22</modifieddate>		
 	</disconnected>
 </connections>
