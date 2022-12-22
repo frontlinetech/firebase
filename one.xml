@@ -6,6 +6,7 @@
 		<protocol>http</protocol>		
 		<ip>193.161.193.99</ip>
 		<port>48871</port>
+		<loc>ss221222</loc>
 		<status>active</status>
 		<createdate>20221124</createdate>
 		<modifieddate>20221124</modifieddate>		
@@ -16,6 +17,7 @@
 		<protocol>http</protocol>		
 		<ip>147.185.221.180</ip>
 		<port>18573</port>
+		<loc>ss221222</loc>
 		<status>active</status>
 		<createdate>20221124</createdate>
 		<modifieddate>20221124</modifieddate>		
@@ -26,10 +28,9 @@
 		<protocol>http</protocol>		
 		<ip>147.185.221.180</ip>
 		<port>18573</port>
+		<loc>ss221222</loc>
 		<status>active</status>
 		<createdate>20221124</createdate>
 		<modifieddate>20221124</modifieddate>		
 	</disconnected>
 </connections>
-
-  
