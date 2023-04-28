@@ -19,6 +19,16 @@
 		<status>active</status>
 		<createdate>22c22</createdate>
 		<modifieddate>22c22</modifieddate>		
+	</connected>
+	<connected>
+		<id>2</id>
+		<name>url3</name>
+		<protocol>http</protocol>		
+		<ip>192.168.56.1</ip>
+		<port>80</port>
+		<status>active</status>
+		<createdate>22c22</createdate>
+		<modifieddate>22c22</modifieddate>		
 	</connected>	
 	<disconnected>
 		<id>4</id>
