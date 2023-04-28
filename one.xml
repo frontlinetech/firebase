@@ -22,7 +22,7 @@
 	</connected>
 	<connected>
 		<id>2</id>
-		<name>url3</name>
+		<name>url6</name>
 		<protocol>http</protocol>		
 		<ip>192.168.56.1</ip>
 		<port>80</port>
