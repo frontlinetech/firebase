@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <connections>
-	<connection>
+	<disconnected>
 		<id>1</id>
-		<name>url2</name>
+		<name>url1</name>
 		<protocol>http</protocol>		
 		<ip>193.161.193.99</ip>
 		<port>48871</port>		
 		<status>active</status>
 		<createdate>22c22</createdate>
 		<modifieddate>22c22</modifieddate>		
-	</connection>	
+	</disconnected>	
 	<connected>
 		<id>2</id>
-		<name>url3</name>
+		<name>url2</name>
 		<protocol>http</protocol>		
 		<ip>147.185.221.180</ip>
 		<port>18573</port>
@@ -21,8 +21,8 @@
 		<modifieddate>22c22</modifieddate>		
 	</connected>
 	<connected>
-		<id>2</id>
-		<name>url6</name>
+		<id>3</id>
+		<name>url3</name>
 		<protocol>http</protocol>		
 		<ip>192.168.56.1</ip>
 		<port>80</port>
@@ -32,7 +32,7 @@
 	</connected>	
 	<disconnected>
 		<id>4</id>
-		<name>url3</name>
+		<name>url4</name>
 		<protocol>http</protocol>		
 		<ip>147.185.221.180</ip>
 		<port>18573</port>
