@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <connections>
 	<connected>
+		<id>3</id>
+		<name>url3</name>
+		<protocol>http</protocol>		
+		<ip>192.168.137.1</ip>
+		<port>80</port>
+		<status>active</status>
+		<createdate>23428</createdate>
+		<modifieddate>23428</modifieddate>		
+	</connected>	
+	<connected>
 		<id>1</id>
 		<name>url2</name>
 		<protocol>http</protocol>		
